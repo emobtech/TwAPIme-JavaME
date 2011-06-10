@@ -1,0 +1,57 @@
+********************************************************************************
+*                      TwAPIme for Java ME 1.0 - READ ME                       *
+********************************************************************************
+*                           http://www.twapime.com                             *
+********************************************************************************
+
+ DESCRIPTION:
+********************************************************************************
+TwAPIme for Java ME is an open source Twitter client app built on Java ME 
+platform and powered by Twitter API ME project. The idea behind this app is to 
+provide to Twitter API ME developers another channel of learning. Developers 
+will be able to see and learn how the API's features are implemented in a real 
+and professional app.
+
+ LICENSE:
+********************************************************************************
+The GNU General Public License (GPL) Version 2, June 1991
+
+ TERMS OF USE:
+********************************************************************************
+This source code is FREE ONLY for NON-commercial purposes. Actually, you can 
+change it, add new features, fix bugs, etc. However, if you intend to release it
+as an app of yours, be aware it MUST be 100% FREE, besides making clear it is 
+powered by Twitter API ME project and providing a link to website's project.
+
+ MINIMUM REQUIREMENTS:
+********************************************************************************
++ Runtime Environment
+  - Java ME: MIDP 2.0 / CLDC 1.0
+
++ Development Environment
+  - Java SDK 1.6
+  - Java ME platform SDK 3.0, WTK 2.5.2 or any other compatible Java ME SDK
+  - Twitter API ME for Java ME v1.6
+
+ XAUTH SET UP:
+********************************************************************************
+This version only works with Single Access Token authentication. To set up your
+keys, replace the values in the constructor of the class 
+com.twapime.app.ui.MainMenu. 
+
+ AVAILABLE IN THIS VERSION:
+********************************************************************************
+- View Home, Mentions, DM and List timeline
+- Post Tweet
+
+ KNOWN BUGS IN THIS VERSION:
+********************************************************************************
+- None.
+
+ REMARKS:
+********************************************************************************
+- None.
+
+ COMING NEXT VERSION: 1.1
+********************************************************************************
+- Let us know what you need.
